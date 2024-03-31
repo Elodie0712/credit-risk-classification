@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Module 12 Report
 
 ## Overview of the Analysis
 
@@ -13,10 +13,7 @@ The financial information the data was on was the loan status of each loan. The 
 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 
-loan_status
-0    75036
-1     2500
-Name: count, dtype: int64
+![alt text](image-1.png)
 
 * Describe the stages of the machine learning process you went through as part of this analysis
 .
