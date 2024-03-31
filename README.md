@@ -13,11 +13,8 @@ The financial information the data was on was the loan status of each loan. The 
 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 
-loan_status
-0    75036
+![image](https://github.com/Elodie0712/credit-risk-classification/assets/148305373/217381e6-d018-44c6-9a27-8935a26ad6b9)
 
-1     2500
-Name: count, dtype: int64
 
 * Describe the stages of the machine learning process you went through as part of this analysis
 .
@@ -32,7 +29,8 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
 
 * Machine Learning Model 1:
     * Description of Model 1 Accuracy, Precision, and Recall scores.
-![alt text](image.png)
+![image](https://github.com/Elodie0712/credit-risk-classification/assets/148305373/53a82d5e-ef1e-4e9b-b12b-2e89ff7a6e46)
+
 The balanced_accuracy score of the model: 0.9520479254722232
 ## Summary
 
