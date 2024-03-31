@@ -15,6 +15,7 @@ The financial information the data was on was the loan status of each loan. The 
 
 loan_status
 0    75036
+
 1     2500
 Name: count, dtype: int64
 
